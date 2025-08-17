@@ -1,0 +1,13 @@
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+
+{
+    // What build height?
+
+    // If height is < 1 or > then 8 or not an integer, go back to step 1.
+
+    // Interate 1 through input height:
+        1. on iteration i, print i hashes and  then a new line
+}
