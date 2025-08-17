@@ -1,0 +1,52 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Home
+{% endblock %}
+
+{% block main %}
+    <div class="col-md-12">
+        {% if not holdings %}
+            <h4>Your portfolio is empty!</h4>
+            <h4>Build it up by getting a stock <a href="./quote">quote</a> & <a href="./buy">buying</a> some shares.</h4>
+        {% endif %}
+
+        {% if holdings %}
+            <table class="table table-striped" style="text-align: center">
+                <thead>
+                    <tr>
+                      <th>Symbol</th>
+                      <th>Name</th>
+                      <th>Shares</th>
+                      <th>Price</th>
+                      <th>Total</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                      <td colspan="4" style="text-align: right">Grand Total</td>
+                      <td>{{grand_total}}</td>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    {% for holding in holdings %}
+                    <tr>
+                      <td>{{holding["symbol"]}}</td>
+                      <td>{{holding["name"]}}</td>
+                      <td>{{holding["shares"]}}</td>
+                      <td>{{holding["price"]}}</td>
+                      <td>{{holding["total"]}}</td>
+                    </tr>
+                    {% endfor %}
+                    <tr>
+                      <td colspan="4" style="text-align: right">Cash Remaining</td>
+                      <td>{{cash}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        {% endif %}
+        <br>
+        <br>
+        <h6>Reset <a href="/resetpassword">password</a>.</h6>
+    </div>
+{% endblock %}

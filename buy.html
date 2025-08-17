@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Buy
+{% endblock %}
+
+{% block main %}
+    <h3>Buy Stock</h3>
+    <br>
+    <form action="/buy" method="post">
+        <div class="mb-3">
+            <label for="symbol">Ticker Symbol:</label>
+            <input autocomplete="off" autofocus="" class="form-control mx-auto w-auto" name="symbol" placeholder="Ticker Symbol" type="text">
+        </div>
+        <div class="mb-3">
+            <label for="shares">Amount of Shares:</label>
+            <input autocomplete="off" class="form-control mx-auto w-auto" min="1" name="shares" placeholder="Amount of Shares" type="number">
+        </div>
+        <button class="btn btn-primary" type="submit">Buy Shares</button>
+    </form>
+    <br>
+    <p class="text-center" style="color: black">*** Notice: Refreshing this page may double your purchase. ***</p>
+{% endblock %}
