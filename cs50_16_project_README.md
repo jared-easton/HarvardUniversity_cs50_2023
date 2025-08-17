@@ -13,7 +13,7 @@
 
 #### As I completed each Lecture's, Section's, Lab's, and Problem Set's… I began to share the sense of pride I was feeling by completing a course and gaining a certification from Harvard. As I shared my journey, it was met with an interesting response. To my amazement people actually poked fun at me and made jokes about the infamous “cs50 Duck Debugger”.
 
-#### As I thought about the negative feedback I was receiving I grew upset by the idea that people, ones that have never taken a course from Harvard… nor ones that had ever taken a compeer science course in general, would feel the right or sense of entitlement to make fun of a valuable tool (not to mention the mascot of the program) that has proven results in problem solving methodology.
+#### As I thought about the negative feedback I was receiving I grew upset by the idea that people, ones that have never taken a course from Harvard… nor ones that had ever taken a computer science course in general, would feel the right or sense of entitlement to make fun of a valuable tool (not to mention the mascot of the program) that has proven results in problem solving methodology.
 
 #### <ins>**Task:**</ins> With this feedback now known to me, I knew I had to provide a valuable resource that would break the stigma of the “cs50 Duck Debugger” and restore the provinaunce to this profound and famed tool. Lucky for Harvard and the cs50 program I am located in Chicago, IL and have an understanding of its vast and unparalleled art history. I began conducting research at the Art Institute of Chicago by way of its open source API where I was able to locate a deep history and genealogy, tracing the lineage of the Harvard cs50 Duck Debugger back thousands of years.
 
