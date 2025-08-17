@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: Performs the best against a sorted list and worst against a random list.
+
+sort2 uses: Merge
+
+How do you know?: Performs the best against a random list and best against a sorted list.
+
+sort3 uses: Selection
+
+How do you know?: Has average performance against a random list and is worst against a sorted list.
