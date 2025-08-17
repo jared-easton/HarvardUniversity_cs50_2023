@@ -1,0 +1,16 @@
++-----------------------------------------+--------------+---------------+
+|                full_name                | abbreviation |     city      |
++-----------------------------------------+--------------+---------------+
+| Beijing Capital International Airport   | PEK          | Beijing       |
+| Logan International Airport             | BOS          | Boston        |
+| O'Hare International Airport            | ORD          | Chicago       |
+| Dallas/Fort Worth International Airport | DFS          | Dallas        |
+| Indira Gandhi International Airport     | DEL          | Delhi         |
+| Dubai International Airport             | DXB          | Dubai         |
+| Fiftyville Regional Airport             | CSF          | Fiftyville    |
+| Los Angeles International Airport       | LAX          | Los Angeles   |
+| LaGuardia Airport                       | LGA          | New York City |
+| Charles de Gaulle Airport               | CDG          | Paris         |
+| San Francisco International Airport     | SFO          | San Francisco |
+| Tokyo International Airport             | HND          | Tokyo         |
++-----------------------------------------+--------------+---------------+
