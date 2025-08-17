@@ -1,0 +1,12 @@
++---------------+----------+------+--------+---------+
+| license_plate | activity | hour | minute |  name   |
++---------------+----------+------+--------+---------+
+| 5P2BI95       | exit     | 10   | 16     | Vanessa |
+| 94KL13X       | exit     | 10   | 18     | Bruce   |
+| 6P58WS2       | exit     | 10   | 18     | Barry   |
+| 4328GD8       | exit     | 10   | 19     | Luca    |
+| G412CB7       | exit     | 10   | 20     | Sofia   |
+| L93JTIZ       | exit     | 10   | 21     | Iman    |
+| 322W7JE       | exit     | 10   | 23     | Diana   |
+| 0NTHK55       | exit     | 10   | 23     | Kelsey  |
++---------------+----------+------+--------+---------+
