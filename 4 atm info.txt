@@ -1,0 +1,102 @@
++------------------+----------------------+----------------+--------+
+| transaction_type |     atm_location     | account_number | amount |
++------------------+----------------------+----------------+--------+
+| withdraw         | Leggett Street       | 28500762       | 48     |
+| withdraw         | Leggett Street       | 28296815       | 20     |
+| withdraw         | Leggett Street       | 76054385       | 60     |
+| withdraw         | Leggett Street       | 49610011       | 50     |
+| withdraw         | Leggett Street       | 16153065       | 80     |
+| withdraw         | Leggett Street       | 25506511       | 20     |
+| withdraw         | Leggett Street       | 81061156       | 30     |
+| withdraw         | Leggett Street       | 26013199       | 35     |
+| withdraw         | Humphrey Lane        | 90209473       | 45     |
+| withdraw         | Humphrey Lane        | 41935128       | 15     |
+| withdraw         | Humphrey Lane        | 66344537       | 55     |
+| withdraw         | Humphrey Lane        | 92647903       | 5      |
+| withdraw         | Humphrey Lane        | 40665580       | 35     |
+| withdraw         | Humphrey Lane        | 96336648       | 20     |
+| withdraw         | Humphrey Lane        | 69638157       | 20     |
+| withdraw         | Humphrey Lane        | 13156006       | 15     |
+| withdraw         | Humphrey Lane        | 89843009       | 40     |
+| withdraw         | Humphrey Lane        | 92647903       | 40     |
+| withdraw         | Humphrey Lane        | 57022441       | 55     |
+| withdraw         | Humphrey Lane        | 79165736       | 5      |
+| withdraw         | Humphrey Lane        | 76849114       | 10     |
+| withdraw         | Humphrey Lane        | 66344537       | 60     |
+| withdraw         | Humphrey Lane        | 50380485       | 100    |
+| withdraw         | Humphrey Lane        | 46222318       | 60     |
+| withdraw         | Humphrey Lane        | 58673910       | 10     |
+| withdraw         | Humphrey Lane        | 93903397       | 35     |
+| withdraw         | Humphrey Lane        | 79127781       | 65     |
+| withdraw         | Humphrey Lane        | 95773068       | 45     |
+| withdraw         | Humphrey Lane        | 26797365       | 35     |
+| withdraw         | Humphrey Lane        | 34939061       | 100    |
+| withdraw         | Humphrey Lane        | 65190958       | 50     |
+| withdraw         | Humphrey Lane        | 99031604       | 20     |
+| withdraw         | Humphrey Lane        | 58552019       | 30     |
+| withdraw         | Humphrey Lane        | 55322348       | 5      |
+| withdraw         | Daboin Sanchez Drive | 16113845       | 55     |
+| withdraw         | Daboin Sanchez Drive | 99835463       | 40     |
+| withdraw         | Daboin Sanchez Drive | 67735369       | 20     |
+| withdraw         | Daboin Sanchez Drive | 20774848       | 40     |
+| withdraw         | Daboin Sanchez Drive | 21656307       | 10     |
+| withdraw         | Daboin Sanchez Drive | 16654966       | 100    |
+| withdraw         | Daboin Sanchez Drive | 70992522       | 25     |
+| withdraw         | Daboin Sanchez Drive | 93401152       | 65     |
+| withdraw         | Daboin Sanchez Drive | 57022441       | 85     |
+| withdraw         | Daboin Sanchez Drive | 87859883       | 5      |
+| withdraw         | Daboin Sanchez Drive | 40665580       | 65     |
+| withdraw         | Daboin Sanchez Drive | 47306903       | 90     |
+| withdraw         | Daboin Sanchez Drive | 26191313       | 90     |
+| withdraw         | Carvalho Road        | 45468795       | 15     |
+| withdraw         | Carvalho Road        | 57029719       | 80     |
+| withdraw         | Carvalho Road        | 66454844       | 60     |
+| withdraw         | Carvalho Road        | 97773635       | 85     |
+| withdraw         | Carvalho Road        | 69278040       | 45     |
+| withdraw         | Carvalho Road        | 62690806       | 45     |
+| withdraw         | Carvalho Road        | 66254725       | 70     |
+| withdraw         | Carvalho Road        | 55656186       | 95     |
+| withdraw         | Carvalho Road        | 40231842       | 5      |
+| withdraw         | Carvalho Road        | 59116006       | 40     |
+| withdraw         | Carvalho Road        | 14180174       | 95     |
+| withdraw         | Carvalho Road        | 97338436       | 60     |
+| withdraw         | Blumberg Boulevard   | 19531272       | 55     |
+| withdraw         | Blumberg Boulevard   | 92206742       | 30     |
+| withdraw         | Blumberg Boulevard   | 75571594       | 40     |
+| withdraw         | Blumberg Boulevard   | 74812642       | 60     |
+| withdraw         | Blumberg Boulevard   | 15452229       | 25     |
+| withdraw         | Blumberg Boulevard   | 17171330       | 15     |
+| deposit          | Leggett Street       | 86363979       | 10     |
+| deposit          | Humphrey Lane        | 94973060       | 50     |
+| deposit          | Humphrey Lane        | 85274751       | 70     |
+| deposit          | Humphrey Lane        | 27952274       | 95     |
+| deposit          | Humphrey Lane        | 32212020       | 20     |
+| deposit          | Humphrey Lane        | 38010758       | 85     |
+| deposit          | Humphrey Lane        | 96352349       | 10     |
+| deposit          | Humphrey Lane        | 34939061       | 10     |
+| deposit          | Humphrey Lane        | 69638157       | 85     |
+| deposit          | Humphrey Lane        | 95773068       | 70     |
+| deposit          | Humphrey Lane        | 13156006       | 15     |
+| deposit          | Humphrey Lane        | 32134232       | 70     |
+| deposit          | Daboin Sanchez Drive | 98353484       | 95     |
+| deposit          | Daboin Sanchez Drive | 32179718       | 20     |
+| deposit          | Daboin Sanchez Drive | 56171033       | 70     |
+| deposit          | Daboin Sanchez Drive | 26017967       | 85     |
+| deposit          | Daboin Sanchez Drive | 37543139       | 85     |
+| deposit          | Daboin Sanchez Drive | 24064261       | 25     |
+| deposit          | Daboin Sanchez Drive | 91814087       | 45     |
+| deposit          | Carvalho Road        | 24133830       | 5      |
+| deposit          | Carvalho Road        | 71305903       | 35     |
+| deposit          | Carvalho Road        | 27482737       | 85     |
+| deposit          | Carvalho Road        | 26249951       | 70     |
+| deposit          | Carvalho Road        | 40981669       | 85     |
+| deposit          | Carvalho Road        | 96352349       | 65     |
+| deposit          | Blumberg Boulevard   | 21004503       | 40     |
+| deposit          | Blumberg Boulevard   | 93622979       | 15     |
+| deposit          | Blumberg Boulevard   | 45096649       | 65     |
+| deposit          | Blumberg Boulevard   | 54824866       | 15     |
+| deposit          | Blumberg Boulevard   | 73183211       | 80     |
+| deposit          | Blumberg Boulevard   | 11605357       | 40     |
+| deposit          | Blumberg Boulevard   | 18363023       | 5      |
+| deposit          | Blumberg Boulevard   | 86850293       | 60     |
++------------------+----------------------+----------------+--------+
