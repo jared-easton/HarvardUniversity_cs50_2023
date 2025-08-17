@@ -1,0 +1,146 @@
+.bigbox1 {
+    margin-top: 50px;
+}
+
+.jse-pic {
+    border-radius: 25px;
+    width: 300px;
+}
+
+.bigbox2 {
+    line-height: 1.75;
+}
+
+.text {
+    font-weight: thin;
+    color: black;
+    font: 12px Arial;
+}
+
+.accordion-item {
+    width: 500px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+th {
+    font-size: 17px;
+}
+
+td {
+    font-size: 22px;
+}
+
+div {
+    font-size: 18px;
+}
+
+.LI {
+
+}
+
+.blink{
+    width: 30px;
+    animation: blink 3s infinite;
+}
+
+@keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+      color: blue;
+    }
+}
+
+.bu-logo{
+    border-radius: 25px;
+    width: 300px;
+}
+
+.bigbox3 {
+    line-height: 1.5;
+}
+
+.cae-logo {
+  border-radius: 25px;
+  width: 450px;
+}
+
+.undergrad{
+  line-height: 1.5;
+  color: black;
+  font: 36px Arial;
+}
+
+.the-u{
+  line-height: 2.0;
+  color: black;
+  font: 30px Arial;
+}
+
+.blink2{
+  width: 300px;
+  animation: blink 1000s infinite;
+}
+
+@keyframes blink2 {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    color: blue;
+  }
+}
+
+.bigbox4 {
+  margin-top: 100px;
+}
+
+.MD-pic {
+  border-radius: 25px;
+  width: 150px;
+}
+
+.bigbox5 {
+    margin-top: 100px;
+}
+
+.bigbox7 {
+  line-height: 2.0;
+  color: black;
+  font: 28px Arial;
+}
+
+.bigbox6 {
+  margin-top: 80px;
+}
+
+.date{
+  margin-top: 14px;
+  float: right;
+  color: grey;
+}
